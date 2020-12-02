@@ -1,0 +1,85 @@
+
+Mayaro virus disease - French Guiana, France
+ 
+Disease Outbreak News
+24 October 2020
+
+ 
+
+On 13 October 2020, the French health authorities officially reported 13 laboratory-confirmed cases of Mayaro fever in French Guiana, France. 
+
+In September 2020, the Institut Pasteur de la Guyane (IPG) (member of the French National Reference Laboratory for arboviruses) identified two cases of Mayaro virus infection (MAYV) confirmed by reverse transcriptase polymerase chain reaction (RT-PCR) and one probable case found positive for Mayaro antibodies. The case-patients presented dengue-like symptoms and joint pains, and tested negative for dengue by RT-PCR.
+
+This unexpected diagnosis led to a further retrospective search for additional cases of Mayaro fever among patients with dengue-like symptoms who tested negative for dengue. Reverse transcriptase polymerase chain reaction was performed on samples collected between 15 July and 15 September, at laboratories mainly located in Cayenne area. These blood samples were collected from patients with dengue-like symptoms , who had tested negative for dengue within five days after the onset of symptoms. In total (including the first detections and retrospective search) IPG identified 11 cases of Mayaro fever by RT-PCR out of 79 samples tested. These cases were reported on 21 September 2020.
+
+On 2 October and 8 October 2020, two additional confirmed cases of Mayaro fever were reported by the Institute Pasteur de la Guyane in Cayenne, leading to a total of 13 confirmed cases among 97 tested samples between 15 July and early October. The onset of symptoms for the 13 confirmed cases ranged from 18 July to 29 September 2020. Of the 13 confirmed cases, 11 lived in the urban coastal area including nine from Cayenne area (Cayenne: 1, Rémire: 4, Matoury: 4), one from Kourou, and one from Montsinery-Tonnegrande. Only two cases lived in a rural/sylvatic area, both in Roura (including one in the village of Cacao, located further in the interior). The age of these cases ranged between 11 to 68 years old (median = 40 years old) and the male to female sex ratio was 1.2:1. 
+
+Mayaro virus (MAYV) has been known to circulate in French Guiana since 1998, but the number of RT-PCR detections of MAYV by IPG between 2017 and 2019 added up to between 1 to 3 confirmed cases annually, detected from 150 to over 600 samples tested every year. As per the testing criteria for MAYV, blood samples were collected within 5 days of the onset of dengue-like symptoms and found negative for dengue virus. 
+
+Detection of 13 confirmed cases within less than 3 months is thus unusual. Furthermore, MAYV is mainly transmitted through a sylvatic cycle and transmission in urban settings has been sparsely described. It is therefore atypical that 11 out of 13 (85%) identified cases of Mayaro fever resided in an urban area. 
+
+MAYV vector (Haemagogus  species mosquitoes) is also the vector of the sylvatic cycle of yellow fever virus and is present in wild or rural habitats of the region of the Americas and the Caribbean. MAYV has been isolated from other genera of mosquitoes, including Culex,Mansonia , Aedes, Psorophora , and Sabethes .
+
+Epidemiological investigation is ongoing in particular to document the travel history of the cases and to determine whether the infections were contracted in forest areas or if the transmission through an urban cycle may be suspected.
+Public health response
+
+Public health measures that are planned or ongoing include the following: 
+
+Entomological investigation and entomological expertise from the IPG;
+Convening an expert committee to discuss the implementation of a strategy for entomological and virological surveillance of arboviruses, and vector competence of areas not yet affected;
+Vector prevention: Public health measures to minimize exposure of persons to mosquitoes are imperative to prevent the spread of the virus and therefore, the disease;
+Information for the community on the risk of transmission and ways to minimize the risk of exposure to vectors, whether in a rural area or within a home in peri-urban areas or those bordering rural areas.
+
+WHO risk assessment
+
+MAYV was isolated for the first time in Trinidad and Tobago in 1954. However, a retrospective study showed evidence of infection by MAYV in sera collected during the construction of channels in Panama and Colombia between 1904 and 1914. Since then, cases have been reported in Central America and South America, particularly in the regions around the Amazon basin with some cases exported by travelers reported in the academic literature. These cases impacted individuals from Canada, France, Germany, the Netherlands, Switzerland, and unidentified parts of North America.
+
+Although some studies suggest MAYV transmission in urban areas, most of the outbreaks described in the last decade in the Americas were reported among residents of rural communities in the Amazon region of Brazil, Bolivia, Peru, and Venezuela. Most human cases occurred among persons who work or reside in tropical rainforests. The reservoir for MAYV is unknown, but some studies have reported virus isolation or high levels of antibodies in host vertebrates, such as non-human primates. 
+
+Changes in the natural environment, deforestation, urbanization, and mining result in increased interactions between host and vector populations and demonstrates the potential of MAYV to emerge in new areas and re-emerge in existing areas.
+
+Mayaro fever is a mosquito borne zoonosis caused by Mayaro virus (MAYV), an arbovirus of the Alphavirus genus, Togavirus family. MAYV transmission is mainly maintained through the sylvatic cycle that involves non-human primates and Haemagogus  mosquitoes. Human cases are associated with recent exposures to humid forest environments inhabited by these vectors. 
+
+At the initial stage, Mayaro fever presents as a non-specific clinical picture like other arboviral diseases (dengue, chikungunya, Zika). The incubation period ranges between 1 to 12 days. The disease is self-limiting, with a duration from 3 to 5 days, with persistence of arthralgia that can remain for weeks or months; however as with others Alphavirus infections, MAYV can produce severe complications, such as intermittent fever, neurological complications, myocarditis, and even death.
+
+Due to the generic nature of the symptoms of arboviruses, misdiagnosis can occur. Cases of MAYV may be going undetected due to a lack of awareness among the medical community. 
+
+Diagnostic testing for MAYV is not widely available, and little is known of MAYV outside of endemic areas. Imported cases may be getting clinically misdiagnosed as dengue, Zika, Chikungunya. In endemic regions coinfection with other arboviral diseases may also misguide the diagnosis of MAYV.
+
+The risk of international spread appears to be small at this stage but cannot be excluded if an urban transmission cycle is shown to have been established. 
+
+In the urban coastal area around Cayenne, there is a risk of additional cases if the transmission occurred in the peri-urban forest. The most likely places of infection are still under investigation. 
+
+The risk of spread at national level cannot be excluded as the virus circulates over a larger area, beyond Cayenne and its surroundings. Investigations are currently ongoing to determine the affected areas. 
+
+With the global circulation of the current COVID-19 pandemic, there is a risk of disruption to healthcare access due to both COVID-19 related burden on the health system and healthcare workers, and decreased demand because of physical distancing requirements or community reluctance. Another aspect to be taken into consideration in the light of the current COVID-19 pandemic is the capacity of the local laboratories and national reference laboratories to process samples due the over-demand in processing COVID-19 samples, in addition to the ongoing epidemic of dengue and localized outbreak of Oropouche virus (for more information, please see the DON published on 13 October). Furthermore, due to non-availability of commercial diagnostic kits, Mayaro diagnostic capacity solely rests on the national reference laboratory. As of 18 October 2020, French Guiana has reported 10 268 COVID-19 cases and 69 deaths.
+WHO advice
+
+Given the broad distribution of the main vector implicated in transmission in the rural areas of the Region and in light of the recent detection of Mayaro fever cases in new geographic areas, WHO encourages Member States to implement actions for detecting cases and keeping healthcare professionals informed to therefore consider Mayaro fever as part of the differential diagnosis for other arboviruses such as chikungunya, dengue, Oropouche, yellow fever and Zika. 
+Considering the similar clinical presentation for Mayaro fever with that of other arboviruses, such as dengue, chikungunya, Oropouche, yellow fever, and zika, surveillance for Mayaro fever could be integrated with existing arbovirus surveillance.
+
+
+Surveillance, diagnosis of MAYV, and vector control are the three main pillars in terms of prevention of the disease. The prevention of Mayaro is contingent on the suppression of mosquito bites and, consequently, of human–vector contact. In the case of  Haemagogus and  Aedes vectors, whose peak activity coincides at the beginning or the end of the day, personal protection measures should be encouraged and promoted. The suppression of mosquito breeding sites through source reduction can be reinforced by community engagement and social mobilization.
+
+WHO does not recommend any restrictions on travel and/or trade for French Guiana based on available information on this event. 
+
+
+References
+
+PAHO/WHO Epidemiological Alert. Mayaro Fever – Outbreak Situation in the Americas. 1 May 2020 .Available here 
+Mayaro virus in Latin America and the Caribbean, Special report, Pan American Journal of Public Health, 2020. Available here 
+Mayaro virus fever in French Guiana: isolation, identification, and seroprevalence.  Available here 
+Groot H, Morales A, Vidales H. Virus isolations from forest mosquitoes in San Vicente de Chucuri, Colombia. Am. J. Trop. Med. Hyg. 1961;10:397–402. doi: 10.4269/ajtmh.1961.10.397.
+Acosta-Ampudia Y, Monsalve DM, Rodríguez Y, Pacheco Y, Anaya JM, Ramírez-Santana C. Mayaro: an emerging viral threat? Emerg Microbes Infect. 2018 Sep 26;7(1):163. doi: 10.1038/s41426-018-0163-5. PMID: 30254258; PMCID: PMC6156602.
+Coimbra T, Santos C, Suzuki A, Petrella S, Bisordi I, Nagamori A, et al. Mayaro virus: imported cases of human infection in Sao Paulo State, Brazil. Rev. Inst. Med. Trop. Sao Paulo. 2007;49:221–224. doi: 10.1590/S0036-46652007000400005 
+Muñoz M and Navarro J. Virus Mayaro: a reemerging arbovirus in Venezuela and Latin America. Biomedical 2012; 32:286-302 
+Tesh R, Watts D, Russell K, Damodaran C, Calampa C, Heads C, et al. Mayaro virus disease: an emerging mosquito-borne in tropical zoonosis South America. Clin Infect Dis. 1999;28:67-73 
+Forshey B, Guevara C, Lake-Towers A, Lawns M, Vargas J, Gianella A, et al. Arboviral etiologies of acute febrile illnesses in Western South America, 2000-2007. PLoS Negl Trop Dis. 2010;8:1-14 
+
+Pinheiro F, LeDuc J. Mayaro virus disease. In: Thomas P, Monath M, editor. The arboviruses epidemiology and ecology. Florida: CRC Press Inc; 1988. p. 137-50. 
+Taylor S, Patel P, Herold T. Recurrent arthralgias in a patient with previous Mayaro fever infection. Southern Med J. 2005;98:484-5 
+Navarrete-Espinosa J, Gómez-Dantés H. Causal arbovirus of hemorrhagic fever in patients of the Mexican Social Security Institute. Rev Med Inst Mex Seguro Soc. 2006;44:347-53
+
+
+
+

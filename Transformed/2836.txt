@@ -1,0 +1,47 @@
+
+Oropouche virus disease - French Guiana, France
+ 
+Disease Outbreak News
+13 October 2020
+
+ 
+
+On 30 September 2020, the French Guiana Regional Health Agency (ARS) reported the first detection of Oropouche virus (OROV) in French Guiana. On 22 September 2020 the Pasteur Institute in Cayenne (a member of the French National Reference Laboratory for arboviruses) notified the France IHR National Focal Point of seven laboratory-confirmed cases of Oropouche virus infection in the village of Saül. These cases were identified following clinical investigations of an unusually high number of dengue-like illnesses in the village. Between 11 August and 25 September, there were 37 clinically-compatible cases of Oropouche virus disease identified in Saül. The results of serology for dengue, chikungunya, and Zika were negative, and seven of nine cases tested positive for OROV by reverse transcriptase polymerase chain reaction (RT-PCR). 
+
+Among the 37 clinically-compatible cases, most cases are male (60%) and the median age is 36 years (range 3-82 years). The most represented age range is 15 to 54-years-old (19 cases) followed by 0 to 14-years-old (10 cases). A peak of cases was observed in mid-September however, the outbreak investigation remains ongoing. 
+
+The village of Saül is remote and is surrounded by Amazonian rainforest. The village can only be reached via the Saül Airport and is approximately a 45-minute flight from Cayenne. 
+
+It is a popular destination for hiking and the official population of Saül is 150 persons. However, due to a drastic reduction in the frequency of flights to and from Saül during the COVID-19 pandemic, the population living in Saül during August-September was estimated to be between 50 to 80 persons. Therefore, given the 37 clinically compatible cases, the attack rate of OROV, in this village could be as high as 70%. No cases of COVID-19 have been reported in Saül thus far. 
+Public health response
+
+Public health measures that are planned or are ongoing include the following: 
+
+Entomological investigation mission planned for epidemiological week ending 3 October of 2020;
+Request for entomological expertise from the Pasteur Institute of French Guiana;
+Prevention messages targeting the local population, tourists and other visitors passing through Saül;
+Convening an expert committee to discuss the implementation of a strategy for entomological and virological surveillance of arboviruses and vector competence studies for areas not yet affected.
+
+WHO risk assessment
+
+This is the first detection of Oropouche virus in French Guiana. Therefore, the population is highly susceptible. To date, there is no evidence of direct human-to-human Oropouche virus transmission. Cases of infection with Oropouche virus have been reported in other countries within the Region of the Americas, and therefore the competent vector, the Culicoides paraensis  midge is present in the region, as is Culex quinquefasciatus which can also be a vector. However, the extent to which these vectors are present in French Guiana needs to be further established. Given the geographical distribution of the other competent vectors in the Region of the Americas, cases may be identified in other countries. The WHO Regional Office for the Americas and the Pan-American Health Organization continue to monitor the epidemiological situation based on the latest available information.
+
+With the current COVID-19 pandemic, there is a risk of disruption to health care access due to both COVID-19 related burden on the health system and health care workers and decreased demand because of physical distancing requirements or community reluctance.
+
+Another aspect to consider given the current COVID-19 pandemic, is the capacity of the local laboratories and national reference laboratories to process samples for arboviruses due the over demand in processing COVID-19 samples and the absence of commercial diagnostic kits. As of 12 October, French Guiana reports 10 144 cases of COVID-19 and 69 deaths.
+
+
+WHO advice
+
+Given its clinical presentation, Oropouche fever should be included in the clinical differential diagnosis for other common vector-borne diseases in the region of the Americas (e.g., malaria, dengue, chikungunya, Zika, yellow fever). WHO recommends vaccination against yellow fever at least 10 days prior to the travel for all international travelers nine months of age going to French Guiana. French Guiana requires a yellow fever vaccination certificate for travelers over one (1) year of age.  
+
+The proximity of midge vector breeding to human habitation is a significant risk factor for OROV infection. Prevention strategies are based on control or eradication measures for the arthropod vectors and personal protection measures. Vector control measures rely on reducing midge populations through the eradication of breeding sites, including good agricultural practices. This can be achieved by reducing the number of natural and artificial water-filled habitats that support midge larvae, reducing the adult midge populations around at-risk communities. Personal protection measures rely on prevention of midge biting using mechanical barriers (mosquito nets), insect repellant devices, repellent-treated clothing and anti-mosquito repellents. Chemical insecticides such as deltamethrin and N,N-Diethyl-meta-toluamide (DEET) have demonstrated to be effective in controlling Culicoides and Culex species.
+
+Oropouche fever is caused by the Oropouche virus (OROV), a single-stranded RNA virus that is part of the Peribunyaviridae family, that has been found to circulate in Central and South America and the Caribbean. It is suspected that viral circulation includes both epidemic and sylvatic cycles. In the sylvatic cycle, primates, sloths, and perhaps birds are the vertebrate hosts, although a definitive arthropod vector has not been identified. In the epidemic cycle, humans are the amplifying host and OROV is transmitted primarily through the bite of the Culicoides paraensis midge. No direct transmission of the virus from human-to-human has been documented. Oropouche fever causes dengue-like symptoms, with an incubation period of 4-8 days (range: 3-12 days). Symptoms include the sudden onset of high fever, headache, myalgia, rash, joint pain, and vomiting. Illness typically lasts 3–6 days. A brief recurrence of symptoms may occur in up to 60% of cases. Aseptic meningitis is an uncommon complication. In the Americas, outbreaks of OROV have been reported in rural and urban communities of Brazil, Ecuador, Panama, Peru, and Trinidad and Tobago, and now in French Guiana. 
+References
+
+Romero-Alvarez D, Escobar LE. Oropouche fever, an emergent disease from the Americas. Microbes Infect. 2018;20(3):135-146.
+Sakkas H, Bozidis P, Franks A, Papadopoulou C. Oropouche Fever: A Review. Viruses. 2018;10(4):175. Published 2018 Apr 4. doi:10.3390/v10040175. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5923469/ 
+Travassos da Rosa JF, de Souza WM, Pinheiro FP, et al. Oropouche virus: Clinical, epidemiological, and molecular aspects of a neglected orthobunyavirus. Am J Trop Med Hyg. 2017;96(5):1019–30.
+
+

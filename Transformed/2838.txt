@@ -1,0 +1,59 @@
+
+Chikungunya – Chad
+ 
+Disease outbreak news
+24 September 2020
+
+ 
+
+From July through 20 September 2020, a total of 27 540 cases were reported in three provinces, distributed as follows: 24 302 cases in the health district of Abéché, 3237 cases in the health district of Biltine, and one case in the health district of Abdi. One death has been reported to date in district of Abéché. After a few hours of treatment in a health facility, patients continue with outpatient treatment. The most affected age group are those aged 15 years and over. More than three-quarters of cases developed a high fever, headache, and joint pain, while one-third developed maculopapular rashes.
+
+In July 2020 health authorities were alerted to the occurrence of a disease-causing high fever, headache, intense and disabling joint pain, and sometimes associated with vomiting. It was eventually determined to be the chikungunya virus once it was confirmed in a 63-year-old female farmer. She had no reported travel outside of Abéché district. A total of 13 samples from Abéché district, Ouaddai Province, were sent for analysis at the N'Djamena mobile laboratory on 12 August 2020 and 11 samples tested positive for chikungunya virus.
+
+The test results were corroborated by the Pasteur laboratory in Yaoundé, Cameroon (a WHO reference laboratory), with five samples sent for quality control found positive for chikungunya virus by reverse transcriptase-polymerase chain reaction (RT-PCR). The samples were also tested for other arboviruses (dengue and Zika), but not for the O'nyong-nyong virus or the yellow fever virus.
+
+Regarding the vectors and environmental context, Aedes mosquitoes, which transmit the disease, are found in Abéché district. Dry season should begin in October with a hot semi-arid climate less favourable for mosquitoes. Other entomological studies are underway in the provinces of Wadi-Fira and Sila to determine the presence of the vector responsible for the disease.
+
+Abéché is the fourth largest city in Chad and is the hub for the delivery of humanitarian assistance for approximately 240 000 Darfurian refugees living in 12 camps east of the town, in the border region of Sudan.
+Public health response 
+
+Teams from the Ministry of Health and National Solidarity, WHO, Red Cross, and the local municipality are currently deployed to perform disinfection and larvae breeding site destruction in the provinces with cases, and to conduct awareness raising campaigns;
+A response plan is currently being validated with the support of WHO and partners of the Health Cluster;
+Several coordination meetings have been held, including: the national coordination for the fight against epidemics; and three meetings under the direction of the Provincial Health Delegate: The Provincial Committee of Ouaddai; the Provincial Committee of Wadi-Fira; and the Provincial Committee of Sila;
+Delivery of medicines and consumables to reinforce medical care;
+Case investigation and active case finding in health care structures and in households; 
+Collection, analysis and daily transmission of data and preparation of a situation report;
+Community awareness on disease prevention implemented in the department of Abougoudam;
+Sensitization of the population by community relays through radio channels;
+Continuation of free treatment for patients in health structures;
+Disinsection of all vehicles and transport buses on the Abéché-N’Djaména axis and other transport cars on the Abéché-Oum Hadjer axis are processed daily;
+Fumigation disinsection operations carried out with the support of the local municipality of Abéché 
+Some challenges remain: vector control, social mobilization and risk communication
+
+WHO risk assessment
+
+Chikungunya is an arboviral disease transmitted to humans by the bites of infected Aedes  mosquitoes. The disease is characterized by an abrupt onset of fever frequently accompanied by joint pain and inflammation which is often very debilitating and may last for several months, or even years. Fatalities associated with infection can occur but are typically rare and most reported in older adults with underlying medical conditions or perinatally-infected infants.  Some patients might have a relapse of rheumatologic symptoms (e.g. polyarthralgia, polyarthritis, and tenosynovitis) in the months following acute illness.
+
+There is no specific antiviral treatment or commercially available vaccine for chikungunya. Chikungunya virus can cause large outbreaks with high attack rates, affecting one-third to three-quarters of the population in areas where the virus is circulating, and therefore potentially leading to the overburdening of the health care sector. The risk at national level is moderate due to the high number of cases reported in a short period of time, the presence of Aedes  vectors in the country, and the fact that this is the first outbreak in the country. It has been demonstrated in the past in other parts of the world that the virus has a strong epidemic potential in the regions where the population is naive to chikungunya virus. As the dry season is approaching in early October with a hot semi-arid climate less favourable for mosquito proliferation, the risk at regional and global levels is lower. With the added burden of the COVID-19 pandemic on the health system and health workers, there is a risk of disruption to health care access. There may also be decreased demand because of physical distancing requirements or community reluctance. In the current context, the capacity of the local laboratories and national reference laboratories to process samples (due to the high demand in processing COVID-19 samples) and a further increase in the number of cases likely to occur, this could potentially lead to a significant strain on health services. In Chad, from 19 March through 16 September 2020, there have been 1 090 confirmed cases of COVID-19 with 81 deaths.
+WHO advice
+
+Clothing which minimizes skin exposure to the day-biting vectors is advised. Repellents can be applied to exposed skin or to clothing in strict accordance with product label instructions. Repellents should contain DEET (N, N-diethyl-3-methylbenzamide), IR3535 (3-[N-acetyl-N-butyl]-aminopropionic acid ethyl ester) or icaridin (1-piperidinecarboxylic acid, 2-(2-hydroxyethyl)-1-methylpropylester). Sleep under a mosquito bed net (during day time) and use air conditioning or window screens to prevent mosquito bites. Mosquito coils or other insecticide vaporizers may also reduce indoor biting.
+
+The Aedes albopictus species thrives in a wide range of water-filled containers, including tree-holes and rock pools, in addition to artificial containers such as unused vehicle tires, saucers beneath plant pots, rain water barrels, cisterns and catch basins. Aedes aegypti also breeds in the artificial water holding containers in and around houses and places of work. Prevention and control rely heavily on reducing the number of these natural and artificial water-filled container habitats that support breeding of the mosquitoes. This requires mobilization of affected communities, strengthening entomological monitoring to assess impact of control measures and implementation of additional control as and when needed. During outbreaks, indoor spraying with insecticides may be used to kill flying mosquitoes along with source reduction measures and larvicides to kill the immature larvae. National blood services/authorities should monitor epidemiological information and strengthen haemovigilance to identify any potential transfusion-transmission of chikungunya virus. Appropriate safety precautions in line with measures taken to prevent other transfusion-transmitted mosquito-borne viruses should be taken based on the epidemiological situation and risk assessment1.
+
+Further activities include: the dissemination of chikungunya clinical guidelines, including key messages; updated training for clinicians of the clinical diagnosis of chikungunya; case reporting; and case management during the acute phase, sub-acute, chronic phase, and when there are complications. Ensuring free access to treatments and avoiding self-medication are also important actions.
+
+
+
+1 http://www.who.int/bloodsafety/publications/guide_selection_assessing_suitability.pdf
+
+2 Int. J. Environ. Res. Public Health 2018, 15, 220; doi:10.3390/ijerph15020220
+
+
+For more information:
+
+
+WHO fact sheet on Chikungunya 
+
+
+

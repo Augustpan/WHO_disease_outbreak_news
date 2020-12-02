@@ -1,0 +1,46 @@
+
+Avian Influenza A(H5N1)- Lao People's Democratic Republic
+ 
+Disease outbreak news 
+17 November 2020
+
+ 
+
+The Ministry of Health in Lao People's Democratic Republic (PDR) reported a human case of infection with an avian influenza A(H5N1) virus. The case is a one-year-old female who developed symptoms of fever, productive cough, difficulty breathing and runny nose on 13 October 2020. She was hospitalized for her illness on 16 October and discharged on 19 October. As part of severe acute respiratory infection (SARI) sentinel surveillance, a specimen was collected on the date of hospitalization and confirmed to be positive for avian influenza A(H5N1) on 28 October by reverse transcription polymerase chain reaction (RT-PCR) at the National Centre for Laboratory and Epidemiology (NCLE). 
+
+Among the close contacts of the patient, one contact developed fever and cough after the onset of illness in the case. Specimens collected from all household contacts, including the symptomatic contact, were negative for influenza A viruses.
+
+Upon further investigation, there were domestic poultry at the residence. There was no travel history of the family 14 days prior to symptom onset in the case.
+
+This is the third human case of avian influenza A(H5N1) virus reported from Lao PDR since 2005; two cases including two deaths were reported in 2007.
+Public health response
+
+The government of Lao PDR has taken the following monitoring, prevention and control measures as detailed in the Joint National Preparedness and Contingency Plan for Avian influenza A(H7N9) and A(H5N1) for Lao PDR:
+
+Case management and isolation of cases and close contacts
+Testing of close contacts
+A meeting was conducted between the Provincial Health Department and the Provincial Department of Agriculture and Forestry to discuss and plan for the rapid response
+An epidemiological investigation is ongoing and includes with veterinarians from the Provincial Department of Agriculture and Forestry 
+Risk communication has been initiated for the public and healthcare workers
+Strengthened surveillance and disinfection of the surrounding environment, including the patient’s residence and suspected exposure areas
+Laboratory samples will be shared with the WHO Collaboration Centre
+
+WHO risk assessment
+
+To date, 862 human cases of influenza A(H5N1) have been reported to WHO since 2003, including three from Lao PDR. Nearly all cases of avian influenza A(H5N1) infection in humans have been associated with close contact with infected live or dead birds, or influenza A(H5N1) virus-contaminated environments. Human infection can cause severe disease and has reportedly high mortality rate. Since the virus continues to be detected in poultry populations, further human cases can be expected. 
+
+Currently available epidemiologic and virologic evidence suggests that A(H5N1) viruses have not acquired the ability of sustained transmission among humans, thus the likelihood of human-to-human spread is low. Should infected individuals from affected areas travel internationally, their infection may be detected in another country during travel or after arrival. If this were to occur, further community level spread is considered unlikely as this virus has not acquired the ability to transmit easily among humans.
+
+This case does not change the current WHO recommendations on public health measures and surveillance of influenza. Thorough investigation of every human infection with a un-subtypeable influenza A virus is essential. 
+WHO advice
+
+Due to the constantly evolving nature of influenza viruses, WHO continues to stress the importance of global surveillance to detect virologic, epidemiologic and clinical changes associated with circulating influenza viruses that may affect human (or animal) health with timely sharing of such viruses and related information for further characterization and risk assessment.
+
+All human infections caused by a novel influenza subtype are notifiable under the  International Health Regulations (IHR)  and State Parties to the IHR (2005) are required to immediately notify WHO of any laboratory-confirmed case of a recent human infection caused by an influenza A virus with the potential to cause a pandemic. Evidence of illness is not required for this report .
+
+In the case of a confirmed or suspected human infection caused by a novel influenza virus with pandemic potential, including a variant virus, a thorough epidemiological investigation (even while awaiting the confirmatory laboratory results) of history of exposure to animals, travel, and contact tracing should be conducted. The epidemiological investigation should include early identification of unusual respiratory events that could signal person-to-person transmission of the novel virus and clinical samples collected from the time and place that the case occurred should be tested and sent to a WHO Collaboration Center for further characterization.
+
+General hygiene measures, such as regular hand washing before and after touching animals and potentially contaminated environments and avoiding contact with sick animals, should be adhered to. WHO does not recommend any specific different measures for travelers. 
+
+WHO does not advise special screening at points of entry regarding this event, nor does it recommend that any travel or trade restrictions be applied.
+

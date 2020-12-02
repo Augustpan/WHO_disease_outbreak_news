@@ -1,0 +1,36 @@
+
+Influenza A(H1N2) variant virus – Brazil  
+ 
+Disease Outbreak News
+9 July 2020
+
+ 
+
+On 22 June 2020, the International Health Regualtions (IHR) Focal Point (FP) of Brazil shared a preliminary report with the Panamerican Health Organization, the WHO Regional Office for the Americas of a human infection with Influenza A(H1N2) variant virus (A(H1N2)v). According to the report, the patient, a 22-year-old female, with no comorbidities, worked in a swine slaughterhouse in Ibiporã Municipality, Paraná State, and developed an influenza-like illness on 12 April 2020. The patient initially sought medical care on 14 April and a respiratory specimen was obtained on 16 April as part of routine surveillance activities. The patient was treated with oseltamivir, was not hospitalized and has recovered.
+
+A real-time RT-PCR test conducted at the public health laboratory identified a non-subtypable influenza A virus. In May 2020, the specimen was forwarded to the Laboratory of Respiratory Virus and Measles, Oswaldo Cruz Institute (FIOCRUZ per its acronym in Portuguese), a national influenza reference laboratory, in Rio de Janeiro. On 22 June, genetic sequencing characterized this virus as an influenza A(H1N2)v virus. 
+Public health response
+
+Further genetic and phenotypic characterization of the virus from the patient is ongoing. 
+
+On 26 June 2020, local authorities started a retrospective and prospective investigation in the slaughterhouse in Ibiporã Municipality and other municipalities where the slaughterhouse workers live. According to the preliminary epidemiological investigation, a second individual who also worked at the slaughterhouse developed respiratory symptoms during the same timeframe as the confirmed case, but no sample was collected from this person. No other suspected cases amongst contacts of the confirmed case have been identified. 
+
+Information from the virological characterization and epidemiological investigation, especially on the patient’s likely source of exposure to the virus and the identification any additional human cases will inform the risk assessment on the likelihood of any person-to-person transmission.
+WHO risk assessment
+
+To date, 26 cases of influenza A(H1N2)v have been reported to WHO since 2005, including two from Brazil. Most of the cases have presented with mild illness and there has been no evidence of person-to-person transmission.
+
+Swine influenza viruses circulate in swine populations in many regions of the world. Depending on geographic location, the genetic characteristics of these viruses differ. Most human cases are the result of exposure to swine influenza viruses through contact with infected swine or contaminated environments. Because these viruses continue to be detected in swine populations around the world, further human cases can be expected. 
+WHO advice
+
+Due to the constantly evolving nature of influenza viruses, WHO continues to stress the importance of global surveillance to detect virological, epidemiological and clinical changes associated with circulating influenza viruses that may affect human (or animal) health with timely sharing of such changes for risk assessment.
+
+
+
+All human infections caused by a novel influenza subtype are notifiable under the  International Health Regulations (IHR)  and State Parties to the IHR (2005) are required to immediately notify WHO of any laboratory-confirmed case of a recent human infection caused by an influenza A virus with the potential to cause a pandemic. Evidence of illness is not required for this report .
+
+
+In the case of a confirmed or suspected human infection caused by a novel influenza virus with pandemic potential, including a variant virus, a thorough epidemiological investigation (even while awaiting the confirmatory laboratory results) of history of exposure to animals, travel, and contact tracing should be conducted. The epidemiological investigation should include early identification of unusual respiratory events that could signal person-to-person transmission of the novel virus and clinical samples collected from the time and place that the case occurred should be tested and sent to a WHO Collaboration Center for further characterization.
+
+General hygiene measures, such as regular hand washing before and after touching animals and avoiding contact with sick animals, should be adhered to. WHO does not recommend any specific different measures for travellers. WHO does not advise special screening at points of entry with regard to this event, nor does it recommend that any travel or trade restrictions be applied.
+

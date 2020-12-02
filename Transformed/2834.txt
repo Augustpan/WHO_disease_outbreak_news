@@ -1,0 +1,85 @@
+
+SARS-CoV-2 mink-associated variant strain – Denmark
+ 
+Disease Outbreak News
+6 November 2020
+
+ 
+
+Since June 2020, 214 human cases of COVID-19 have been identified in Denmark with SARS-CoV-2 variants associated with farmed minks, including 12 cases with a unique variant, reported on 5 November. All 12 cases were identified in September 2020 in North Jutland, Denmark. The cases ranged in age from 7 to 79 years, and eight had a link to the mink farming industry and four cases were from the local community. 
+
+Initial observations suggest that the clinical presentation, severity and transmission among those infected are similar to that of other circulating SARS-CoV-2 viruses. However, this variant, referred to as the "cluster 5" variant, had a combination of mutations, or changes that have not been previously observed. The implications of the identified changes in this variant are not yet well understood. Preliminary findings indicate that this particular mink-associated variant identified in both minks and the 12 human cases has moderately decreased sensitivity to neutralizing antibodies. Further scientific and laboratory-based studies are required to verify preliminary findings reported and to understand any potential implications of this finding in terms of diagnostics, therapeutics and vaccines in development. In the meantime, actions are being taken by Danish authorities to limit the further spread of this variant of the virus among mink and human populations. 
+
+SARS-CoV-2, the virus which causes COVID-19, was first identified in humans in December 2019. As of 6 November, it has affected more than 48 million people causing over 1.2 million deaths worldwide. Although the virus is believed to be ancestrally linked to bats, the virus origin and intermediate host(s) of SARS-CoV-2 have not yet been identified. 
+
+Available evidence suggests that the virus is predominantly transmitted between people through respiratory droplets and close contact, but there are also examples of transmission between humans and animals. Several animals that have been in contact with infected humans, such as minks, dogs, domestic cats, lions and tigers, have tested positive for SARS-CoV-2. 
+
+Minks were infected following exposure from infected humans. Minks can act as a reservoir of SARS-CoV-2, passing the virus between them, and pose a risk for virus spill-over from mink to humans. People can then transmit this virus within the human population. Additionally, spill-back (human to mink transmission) can occur. It remains a concern when any animal virus spills in to the human population, or when an animal population could contribute to amplifying and spreading a virus affecting humans. As viruses move between human and animal populations, genetic modifications in the virus can occur. These changes can be identified through whole genome sequencing, and when found, experiments can study the possible implications of these changes on the disease in humans. 
+
+To date, six countries, namely Denmark, the Netherlands, Spain, Sweden, Italy and the United States of America have reported SARS-CoV-2 in farmed minks to the World Organisation for Animal Health (OIE).
+Public health response
+
+Danish authorities have announced the following planned or ongoing public health actions:
+
+Culling of all farmed mink (more than 17 million) in Denmark, including its breeding stock;
+Enhancing surveillance of the local population to detect all COVID-19 cases, including through population-wide mass PCR testing for the region of North Jutland; 
+Expanding the percentage of sequencing of human and mink SARS-CoV-2 infections in Denmark;
+Rapid sharing of the full genome sequences of the mink-variant SARS-CoV-2; and
+Introducing new movement restrictions and other public health measures to affected areas in North Jutland to reduce further transmission, including movement restrictions between municipalities.
+
+WHO risk assessment
+
+All viruses, including SARS-CoV-2, change over time. SARS-CoV-2 strains infecting minks, which are subsequently transmitted to humans, may have acquired unique combinations of mutations. In order to fully understand the impact of specific mutations, advanced laboratory studies are required. These investigations take time and are done in close collaboration between different research groups.
+
+The recent findings reported by the Danish Public Health Authority (Statens Serum Institut) in Denmark related to the novel variant of SARS-CoV-2 identified in humans need to be confirmed and further evaluated to better understand any potential implications in terms of transmission, clinical presentation, diagnostics, therapeutics and vaccine development. 
+
+Furthermore, detailed analyses and scientific studies are needed to better understand the reported mutations. The sharing of full genome sequences of human and animal strains will continue to facilitate detailed analyses by partners. Members of the WHO SARS-CoV-2 Virus Evolution Working Group are working with Danish scientists to better understand the available results and collaborate on further studies. Further scientific and laboratory-based studies will be undertaken to understand the implications of these viruses in terms of available SARS-CoV-2 diagnostics, therapeutics and vaccines in development. 
+
+Actions taken by the Danish authorities will limit continued spread of mink-associated variants of SARS-CoV-2 in Denmark, and in particular have been implemented to contain the unique variant reported to WHO. These actions include restricting movement of people, culling animals, widespread testing of people living in affected areas and increased genomic sequencing of SARS-CoV-2 viruses across the country.  
+WHO advice
+
+This event highlights the important role that farmed mink populations can play in the ongoing transmission of SARS-CoV-2 and the critical role of strong surveillance, sampling and sequencing SARS-CoV-2, especially around areas where such animal reservoirs are identified. 
+
+The preliminary findings by Denmark are globally relevant and WHO recognises the importance of sharing epidemiological, virological and full genome sequence information with other countries and research teams, including through open-source platforms.
+
+WHO advises further virological studies should be conducted to understand the specific mutations described by Denmark and to further investigate any epidemiological changes in function of the virus in terms of its transmissibility and the severity of disease it causes. WHO advises all countries to increase the sequencing of SARS-CoV-2 viruses where possible and sharing the sequence data internationally.
+
+WHO advises all countries to enhance surveillance for COVID-19 at the animal-human interface where susceptible animal reservoirs are identified, including mink farms. 
+
+WHO also reminds countries to strengthen farming biosafety and biosecurity measures around known animal reservoirs in order to limit the risk of zoonotic events associated with SARS-CoV-2. This includes infection prevention and control measures for animal workers, farm visitors and those who may be involved in animal husbandry or culling. 
+
+The basic principles to reduce the general risk of transmission of acute respiratory infections are as follows:
+
+Avoiding close contact with people suffering from acute respiratory infections;
+Ensuring frequent hand-washing, especially after direct contact with ill people or their environment;
+For people with symptoms of acute respiratory infection, practicing cough etiquette, such as maintain distance, cover coughs and sneezes with disposable tissues or clothing, and wash hands; use of masks where appropriate; and
+Enhancing standard infection prevention and control practices in hospitals in health care facilities, especially in emergency departments.
+
+
+WHO advises against the application of any travel or trade restrictions for Denmark based on the information currently available on this event. WHO has issued guidance for  Public health considerations while resuming international travel, recommending a thorough risk assessment, taking into account country context, the local epidemiology and transmission patterns, the national health and social measures to control the outbreak, and the capacities of health systems in both departure and destination countries, including at points of entry. In case of symptoms suggestive of acute respiratory illness either during or after travel, the travellers are encouraged to seek medical attention and share their travel history with their health care provider. Health authorities should work with travel, transport and tourism sectors to provide travellers with information to reduce the general risk of acute respiratory infections via travel health clinics, travel agencies, conveyance operators, and at points of entry.
+
+For more information, see:
+
+
+WHO Health Topics page on COVID-19
+
+
+WHO Scientific brief on the transmission of SARS-CoV-2: implications for infection prevention precautions
+
+
+WHO Public health considerations while resuming international travel
+
+
+OIE Update 6 on the COVID-19 situation in mink in Denmark
+
+
+OIE Technical factsheet, infection with SARS-CoV-2 in animal 
+
+
+OIE Questions and Answers on COVID-19 
+
+
+FAO Exposure of humans or animals to SARS-CoV-2 from wild, livestock, companion and aquatic animals
+
+
+
